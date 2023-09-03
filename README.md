@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Muuur
-- 👀 I’m interested in learn new skills which can be useful for work or personal amusement
-- 🌱 I use to code in perl, but now I prefer python
-- 💞️ I’m looking to collaborate on some projects that personally can interest me, but I actually don't know which.
+# Who am I?
 
-<!---
-Muuur/Muuur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 I’m Muuur
+- 👀 I’m interested in learn python for data science and new useful skills for work or personal amusement
+- 🌱 I use to code in perl, but now I'm used to python. I also learnt Javascript for web dev with HTML and CSS, bash for linux workspaces and C++ for speed.
+- 💞️ I would collaborate in some projects that could interest me, but actually I don't know how to do it neither what project.
